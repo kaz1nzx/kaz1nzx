@@ -42,7 +42,7 @@
     title="Java"
     width="30px"
     style="padding-right: 10px;"
-    src="https://iconscout.com/free-icon/free-java-logo-icon_2945017](https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-svg-download-png-2945017.png?f=webp)"
+    src="https://iconscout.com/free-icon/free-java-logo-icon_2945017](https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-svg-download-png-2945017.png?f=webp"
     />
 
  
