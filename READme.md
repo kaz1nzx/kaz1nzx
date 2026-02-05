@@ -44,6 +44,9 @@
     style="padding-right: 10px;"
     src="https://img.icons8.com/color/512/java-coffee-cup-logo--v2.png"
     />
+
+    <br>
+    
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaz1nzx/kaz1nzx/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaz1nzx/kaz1nzx/output/pacman-contribution-graph.svg">
