@@ -2,7 +2,7 @@
 
 
 # 👩🏻‍💻 kauaziN
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack & Video Editor`**
 
 ### 🤖 Linguagens e Tecnologias
 
