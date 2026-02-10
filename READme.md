@@ -46,6 +46,14 @@
     style="padding-right: 10px;"
     src="https://img.icons8.com/color/512/java-coffee-cup-logo--v2.png"
     />
+<img
+    align="left"
+    alt="MySQL"
+    title="Java"
+    width="30px"
+    style="padding-right-10px;"
+    src="https://imgs.search.brave.com/c1rRcE2xHwZtGzHwoPURPsLeJZyEBGFBcrQDPey-R3A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zMDMyNTEv/bXlzcWwtbG9nby5z/dmc"
+    />
 
 <br> <br>
     
