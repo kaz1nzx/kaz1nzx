@@ -86,6 +86,14 @@
     style="padding-right: 10px;"
              src="https://imgs.search.brave.com/PCKYYxNRhQYQHJVvLRiXFrzAWUHv2fnu6CF5O7bg8JY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9zcHJpbmct/Ym9vdC1pY29uLnBu/Zw"
     />
+    <img
+     align="left"
+    alt="Typescript"
+    title="Typescript"
+    width="30px"
+    style="padding-right: 10px;"
+             src="https://imgs.search.brave.com/bkeUpGJTRCwo0ehA6bJmea8dNBrFoRjphnWY5-yIVIA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzUyLzIvdHlwZXNj/cmlwdC1sb2dvLXBu/Z19zZWVrbG9nby01/MjY3MzAucG5n"
+    />
     
     
 
