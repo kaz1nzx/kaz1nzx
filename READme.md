@@ -27,7 +27,7 @@
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; border-radius: 10px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -62,6 +62,15 @@
     style="padding-right: 10px;"
     src="https://imgs.search.brave.com/W-05ky_Dkwpmvk4g3lwsR2dsdvQHhXhYnfdg73zY3qY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9hZG9iZS1w/cmVtaWVyZS1wcm8t/aWNvbi5wbmc"
     />
+    <img
+     align="left"
+    alt="AdobePremiere"
+    title="Premiere"
+    width="30px"
+    style="padding-right: 10px;"
+    src=""
+    />
+    
 
 <br> <br>
     
