@@ -2,7 +2,7 @@
 
 
 # 👩🏻‍💻 Kauã Dias
-**`Desenvolvedor FullStack & Video Editor`**
+                                          **`Desenvolvedor FullStack & Video Editor`**
 
 ### 🤖 Linguagens e Tecnologias
 
