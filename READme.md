@@ -68,7 +68,7 @@
     title="React"
     width="30px"
     style="padding-right: 10px;"
-    src="https://imgs.search.brave.com/utcvQAvTLrcOP9HWpjGGicJyx4jCo1Pk-7BgZfeDpYk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cm9ja2V0c2VhdC5j/b20uYnIvYmxvZy9f/bmV4dC9pbWFnZT91/cmw9aHR0cHM6Ly9z/dG9yYWdlLmdvb2ds/ZWFwaXMuY29tL3N0/YXItbGFiL2Jsb2cv/T0dzL3JlYWN0LnBu/ZyZ3PTM4NDAmcT03/NQ"
+    src="https://imgs.search.brave.com/FihthY8hMrxn60mcDaOWs6cpLeU5olROkI4hra30AuQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2E3L1JlYWN0LWlj/b24uc3Zn"
     />
     
 
